@@ -11,3 +11,5 @@ https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-develope
 https://www.linuxjournal.com/content/back-github-and-gitlab-repositories-using-golang
 
 https://en.wikipedia.org/wiki/Seikilos_epitaph
+
+https://fermatslibrary.com/s/the-beginning-of-the-monte-carlo-method
