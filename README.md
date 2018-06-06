@@ -9,3 +9,5 @@ https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
 https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/
 
 https://www.linuxjournal.com/content/back-github-and-gitlab-repositories-using-golang
+
+https://en.wikipedia.org/wiki/Seikilos_epitaph
