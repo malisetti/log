@@ -15,3 +15,5 @@ https://en.wikipedia.org/wiki/Seikilos_epitaph
 https://fermatslibrary.com/s/the-beginning-of-the-monte-carlo-method
 
 https://www.jpl.nasa.gov/news/news.php?feature=7151
+
+https://www.saveur.com/article/Kitchen/The-Art-of-Kimchi
